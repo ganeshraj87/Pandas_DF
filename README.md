@@ -1,2 +1,2 @@
-# Pandas_DF
+# Pandas_DataFrame
 Pandas Dataframe Tutorial
